@@ -252,3 +252,10 @@ h6 {
 #home-articles .articles-container > *:last-child{
     grid-column: 2/span 2;
 }
+.card img {
+    width: 100%;
+    height: auto;
+    display: block;
+    object-fit: cover;
+  }
+  
